@@ -1,0 +1,18 @@
+<list>
+	<de.hec.movie.Movie>
+		<name>Ich weiss was Du letzten Sommer getan hast</name>
+		<category>Horror</category>
+	</de.hec.movie.Movie>
+	<de.hec.movie.Movie>
+		<name>Life of Brian</name>
+		<category>Komoedie</category>
+	</de.hec.movie.Movie>
+	<de.hec.movie.Movie>
+		<name>Star Wars</name>
+		<category>Science Fiction</category>
+	</de.hec.movie.Movie>
+	<de.hec.movie.Movie>
+		<name>Scream - Schrei!</name>
+		<category>Horror</category>
+	</de.hec.movie.Movie>
+</list>
